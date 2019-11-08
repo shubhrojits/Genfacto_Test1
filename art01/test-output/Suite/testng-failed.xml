@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="testCases.Landing_page_test">
+        <methods>
+          <include name="link_options"/>
+          <include name="beforeClass"/>
+          <include name="afterTest"/>
+          <include name="existence_watermark_password"/>
+          <include name="navigate_user_details"/>
+          <include name="beforeTest"/>
+          <include name="afterClass"/>
+          <include name="login"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="existence_watermark_username"/>
+        </methods>
+      </class> <!-- testCases.Landing_page_test -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
