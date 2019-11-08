@@ -1,6 +1,6 @@
 USE [Git_Accounting]
 GO
-/****** Object:  StoredProcedure [dbo].[Customers_Add]    Script Date: 23-10-2019 09:45:29 ******/ mod --1
+/****** Object:  StoredProcedure [dbo].[Customers_Add]    Script Date: 23-10-2019 09:45:29 ******/ mod --2
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
