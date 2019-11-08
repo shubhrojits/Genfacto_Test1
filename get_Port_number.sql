@@ -1,3 +1,6 @@
+--Same thing 
+
+
 DECLARE @portNumber NVARCHAR(10);
 EXEC xp_instance_regread 
      @rootkey = 'HKEY_LOCAL_MACHINE', 
