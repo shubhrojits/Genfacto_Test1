@@ -1,4 +1,4 @@
---Same thing 
+--Same thing can be done using
 
 
 DECLARE @portNumber NVARCHAR(10);
